@@ -642,9 +642,3 @@ python manage.py createsuperuser
     ```
 
 
-### 16. Test The Code
-
-### 17. Prevent authenticated users from visiting auth pages#   d j a n g o _ p r o j e c t  
- # django_project
-# django_project
-# django_project
